@@ -1,0 +1,20 @@
+{
+  "id": "61c08520e867009e639ff740",
+  "userId": "6187e9a1b9ebfd75e7778f96",
+  "name": "XXXIdeal",
+  "status": "COMPLETED",
+  "creationDate": "2021-12-20T13:29:04.275Z",
+  "endDate": "2021-12-20T13:49:43.820Z",
+  "backend": {
+    "id": "607865bb1c360deed3e70bbf",
+    "name": "ibmq_manila"
+  },
+  "tags": [],
+  "provider": {
+    "hub": "ibm-q",
+    "group": "open",
+    "project": "main",
+    "backend": "ibmq_manila"
+  },
+  "runMode": "fairshare"
+}

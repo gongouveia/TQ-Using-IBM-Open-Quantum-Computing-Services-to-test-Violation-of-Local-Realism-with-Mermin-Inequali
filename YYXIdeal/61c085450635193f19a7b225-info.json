@@ -1,0 +1,20 @@
+{
+  "id": "61c085450635193f19a7b225",
+  "userId": "6187e9a1b9ebfd75e7778f96",
+  "name": "YYXIdeal",
+  "status": "COMPLETED",
+  "creationDate": "2021-12-20T13:29:41.035Z",
+  "endDate": "2021-12-20T13:54:14.113Z",
+  "backend": {
+    "id": "607865bb1c360deed3e70bbf",
+    "name": "ibmq_manila"
+  },
+  "tags": [],
+  "provider": {
+    "hub": "ibm-q",
+    "group": "open",
+    "project": "main",
+    "backend": "ibmq_manila"
+  },
+  "runMode": "fairshare"
+}

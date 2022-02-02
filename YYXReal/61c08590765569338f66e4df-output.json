@@ -1,0 +1,97 @@
+{
+  "backend_name": "ibmq_manila",
+  "backend_version": "1.0.22",
+  "qobj_id": "1cf4ef90-3605-4986-8d6e-6b236e5b404b",
+  "job_id": "61c08590765569338f66e4df",
+  "date": "2021-12-20T13:54:18Z",
+  "success": true,
+  "status": "Successful completion",
+  "execution_id": "4fdb253c-619c-11ec-a20e-bc97e15b08d0",
+  "time_taken": 5.840229749679565,
+  "header": {
+    "backend_name": "ibmq_manila",
+    "backend_version": "1.0.22"
+  },
+  "results": [
+    {
+      "shots": 1024,
+      "success": true,
+      "status": null,
+      "seed": null,
+      "meas_level": 2,
+      "meas_return": null,
+      "header": {
+        "qubit_labels": [
+          [
+            "q",
+            0
+          ],
+          [
+            "q",
+            1
+          ],
+          [
+            "q",
+            2
+          ],
+          [
+            "q",
+            3
+          ],
+          [
+            "q",
+            4
+          ]
+        ],
+        "n_qubits": 5,
+        "qreg_sizes": [
+          [
+            "q",
+            5
+          ]
+        ],
+        "clbit_labels": [
+          [
+            "c",
+            0
+          ],
+          [
+            "c",
+            1
+          ],
+          [
+            "c",
+            2
+          ]
+        ],
+        "memory_slots": 3,
+        "creg_sizes": [
+          [
+            "c",
+            3
+          ]
+        ],
+        "name": "circuit-1968",
+        "global_phase": 4.712388980384688,
+        "metadata": {}
+      },
+      "data": {
+        "counts": {
+          "0x0": 223,
+          "0x1": 109,
+          "0x2": 54,
+          "0x3": 210,
+          "0x4": 48,
+          "0x5": 178,
+          "0x6": 168,
+          "0x7": 34
+        },
+        "snapshots": null,
+        "memory": null,
+        "statevector": null,
+        "unitary": null
+      }
+    }
+  ],
+  "error": null
+}
